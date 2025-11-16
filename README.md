@@ -1,5 +1,5 @@
 # About Me:
-r<br>Full-Stack Developer | Python (FastAPI) | Node.js | Java (Spring Boot) | AWS | CI/CD | AI & Machine Learning <br>
+<br>Full-Stack Developer | Python (FastAPI) | Node.js | Java (Spring Boot) | AWS | CI/CD | AI & Machine Learning <br>
 
 
 ## 🌐 Socials:
