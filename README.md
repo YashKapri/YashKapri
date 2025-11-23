@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yash Kapri 👋</h1>////
+<h1 align="center">Hi there, I'm Yash Kapri 👋</h1>///
 
 <p align="center">
   <b>Full-Stack Developer | Python (FastAPI) | Node.js | Java (Spring Boot) | AWS | CI/CD | AI & Machine Learning</b>
